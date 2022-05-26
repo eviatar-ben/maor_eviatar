@@ -1,0 +1,2 @@
+def chikiwiki():
+    print("chiki")
